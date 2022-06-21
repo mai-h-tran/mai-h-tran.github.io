@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
 title: Mai Tran
-description: >
-I used to be a teacher who was always curious about the causes behind human beings' behaviors and matters. What factors contribute to a rise in sales of the product that I do not find outstanding? If we can calculate the traffic light waiting time perfectly, will it reduce traffic jams? What are the best times to remind my dear students to do their homework to motivate them? Those questions pop up in my mind every day. 
-<br>
-Now I've finally found a way to fulfill that inquisitive mind in data analytics. Data analyzing and teaching have a lot in common, only differ in who the stakeholders are.
+description: > 
+  I used to be a teacher who was always curious about the causes behind human beings' behaviors and matters. What factors contribute to a rise in sales of the product that I do not find outstanding? If we can calculate the traffic light waiting time perfectly, will it reduce traffic jams? What are the best times to remind my dear students to do their homework to motivate them? Those questions pop up in my mind every day. 
+  <br><br>
+  Now I've finally found a way to fulfill that inquisitive mind in data analytics. Data analyzing and teaching have a lot in common, only differ in who the stakeholders are.
+  <br><br>
+theme: jekyll-theme-minimal
