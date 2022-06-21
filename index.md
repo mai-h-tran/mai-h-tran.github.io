@@ -1,4 +1,4 @@
-   # My Portfolio
+# Portfolio
 
 ## [Cyclistic Bikeshare](/projects/Cyclistic/Cyclistic.md)
   <br>
