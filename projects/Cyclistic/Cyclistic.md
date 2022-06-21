@@ -1,4 +1,4 @@
-#Cyclistic
+# Cyclistic
 
 The goal of the project is to design marketing strategies aimed at converting casual riders into annual members. In order to do that, in this analysis, we will look into how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
@@ -22,7 +22,7 @@ STEP 2: Importing data
 
 I import all tables of trip data in 12 months of 2021.
 
-```{r include=FALSE}
+```{r}
 m1.2021 <- read_csv("202101-divvy-tripdata.csv")
 m2.2021 <- read_csv("202102-divvy-tripdata.csv")
 m3.2021 <- read_csv("202103-divvy-tripdata.csv")
