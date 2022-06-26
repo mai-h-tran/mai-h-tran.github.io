@@ -12,4 +12,5 @@
   
 ## [Presentation for Cyclistic Bike-share](/projects/Cyclistic/Cyclistic.pdf)
 Presentation showing findings and suggestion for *Cyclistic Bike-share* case study
+<br><br>
 <img src="assets/img/presentation.png?raw=true">
